@@ -11,7 +11,7 @@ Databases: SQL, MySQL, MongoDB
 
 🎓 Education:
 
-📚 Bachelor’s in Internet Engineering
+📚 Engeenering degree in Internet Engineering
 🎓 Pursuing a Master’s in Information Technology
 
 💡 Current Projects:
