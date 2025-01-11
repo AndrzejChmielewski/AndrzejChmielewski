@@ -1,4 +1,4 @@
-💻 Vulnerability Remediation Analyst | Software Developer | Technology Enthusiast
+💻 Cybersecurity Analyst | Software Developer | Technology Enthusiast
 
 🚀 I am a passionate tech professional with expertise in cybersecurity, software development, and cloud computing. Currently, I analyze and remediate product vulnerabilities at Google, ensuring secure and robust solutions for global systems.
 
@@ -13,6 +13,7 @@ Databases: SQL, MySQL, MongoDB
 
 📚 Bachelor’s in Internet Engineering
 🎓 Pursuing a Master’s in Information Technology
+
 💡 Current Projects:
 
 Master's Thesis: Comparing React and Angular for service application development.
