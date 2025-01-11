@@ -8,6 +8,7 @@ Programming: Python, C#, Kotlin, JavaScript, C++, PHP
 Frameworks & Tools: React.js, Angular, Docker, Kubernetes, Node.js, Laravel
 Cloud & Infrastructure: Azure, GCP, Firebase, Active Directory, Git
 Databases: SQL, MySQL, MongoDB
+
 🎓 Education:
 
 📚 Bachelor’s in Internet Engineering
